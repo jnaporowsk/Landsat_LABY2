@@ -1,0 +1,14 @@
+LC08/
+
+# wyniki generowane skryptami
+wyniki/
+strona/
+*.aux.xml
+
+# srodowisko i smieci systemowe
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+._*
+~$*
